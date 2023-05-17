@@ -1,6 +1,6 @@
-#  Hreyfimyndagerð með After Effects.
+#  Margmiðlun með After Effects.
 
-Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_), vefsíðum og sjónvarpi.
+Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_), vefsíðum og sjónvarpi. 
 
 Forkföfur eru almenn tölvukunnátta og áskrift að Adobe Creative Cloud. Námskeiðið er fyrir byrjendur, gott er að kunna á myndvinnsluforrit ss. Photoshop.
 
@@ -15,15 +15,15 @@ Farið er í grunnatriði í notkun After Effects, gerðar eru einfaldar æfin
 
 Námsáætlun
 
-Undirbúningur
-Undistöðuatriði hönnunar
-Framleiðsluferli
-After Effects grunnur
-Shape layers
-Animation á tímalínu
-Compositing
-Letur
-Kynning á 3D animation
-Render
+- Undirbúningur
+  - Undistöðuatriði hönnunar
+  - Framleiðsluferli
+- After Effects
+  - Shape layers
+  - Animation á tímalínu
+  - Compositing
+  - Letur
+  - 3D animation
+  - Render
 Audio
 Ýmis góð ráð / næstu skref
