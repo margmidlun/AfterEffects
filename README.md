@@ -26,7 +26,7 @@ Námsáætlun
   - Upptökur
   - hljóðvinnsla
   - Ýmis góð ráð 
- - Lokaverkefni
+- Lokaverkefni
   - Undirbúningur
   - Framleiðsla
 
