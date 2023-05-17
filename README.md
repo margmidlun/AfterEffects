@@ -15,15 +15,18 @@ Farið er í grunnatriði í notkun After Effects, gerðar eru einfaldar æfin
 
 Námsáætlun
 
-- Undirbúningur
-  - Undistöðuatriði hönnunar
-  - Framleiðsluferli
 - After Effects
   - Shape layers
   - Animation á tímalínu
   - Compositing
   - Letur
-  - 3D animation
-  - Render
-Audio
-Ýmis góð ráð / næstu skref
+  - 3D animation p2
+  - Render p2
+- Audition
+  - Upptökur
+  - hljóðvinnsla
+  - Ýmis góð ráð 
+ - Lokaverkefni
+  - Undirbúningur
+  - Framleiðsla
+
