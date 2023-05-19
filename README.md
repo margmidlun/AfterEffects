@@ -50,7 +50,7 @@ ath
 | --- | --- | --- | --- |
 | 1 | Efni valið og undirbúningur | Skipulagning |  4 |
 | 2 | HTML og Pico CSS safn. | Grid, Buttons |  4 | 
-| 3 | Frumgerð | Unnið í InkScape | Litaþema |  4 |  
+| 3 | Frumgerð | Unnið í InkScape |  4 |  
 | 4 |  Drop down menu | CSS selectors og CSS attributes |  4 |  
 | 5 | SVG vigurteikningar | Tákn/logo búið til |  4 | 
 | 6 | Tímalínan, @keyframe | Slideshow  |  4 |
