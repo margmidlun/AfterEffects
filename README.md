@@ -19,13 +19,21 @@ ath
 
 #### Námsáætlun
 
-- After Effects
-  - Shape layers
+- After Effects Grunnur
+  - Begin compositions
+  - Compositing layers
   - Animation á tímalínu
-  - Compositing
-  - Letur
-  - 3D animation p2
-  - Render p2
+  - Add Effects to a layer
+  - Basics of 3D rendering
+- Hreyfimynd búin til
+  - Import PP sequence
+  - Customize text
+  - Put text in motion
+  - Match a moving camera
+  - distort a layer
+  - animate an Illustrator logo
+  - add dimension to a design
+  - 
 - Audition
   - Upptökur
   - hljóðvinnsla
@@ -33,4 +41,8 @@ ath
 - Lokaverkefni
   - Undirbúningur
   - Framleiðsla
+
+# Stundatafla
+
+
 
