@@ -46,16 +46,16 @@ ath
 
 ### Vikuáætlun 2 x 2 tímar
 
-| Vika | Tími 1  | Tími 2 | 
-| --- | --- | --- | 
-| 1 | Efni valið og undirbúningur | Skipulagning |  
-| 2 | HTML og Pico CSS safn. | Grid, Buttons | 
-| 3 | Frumgerð | Unnið í InkScape | Litaþema |  
-| 4 |  Drop down menu | CSS selectors og CSS attributes |  
-| 5 | SVG vigurteikningar | Tákn/logo búið til | 
-| 6 | Tímalínan, @keyframe | Slideshow  | 
-| 7 | Landing page | CSS þjöppun |  
-| 8 | V7/buffer | --- |
+| Vika | Tími 1  | Tími 2 | Samtals |
+| --- | --- | --- | --- |
+| 1 | Efni valið og undirbúningur | Skipulagning |  4 |
+| 2 | HTML og Pico CSS safn. | Grid, Buttons |  4 | 
+| 3 | Frumgerð | Unnið í InkScape | Litaþema |  4 |  
+| 4 |  Drop down menu | CSS selectors og CSS attributes |  4 |  
+| 5 | SVG vigurteikningar | Tákn/logo búið til |  4 | 
+| 6 | Tímalínan, @keyframe | Slideshow  |  4 |
+| 7 | Landing page | CSS þjöppun |  4 |  
+| 8 | V7/buffer | --- |  30 |
 
 
 
