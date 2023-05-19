@@ -2,7 +2,7 @@
 
 Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_), vefsíðum og sjónvarpi. 
 
-Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit ss. Photoshop. og eða vektor teikniforrit ss. Illustrator. Til að ná árangri í margmiðlun er gott að vera með áskrift að _Adobe Creative Cloud_. [Tækniskólinn býður nemendum árs áskrift að Adobe forritapakkanaum á hóflegu verði]()
+Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit ss. Photoshop. og eða vektor teikniforrit ss. Illustrator. Til að ná árangri í margmiðlun er gott að vera með áskrift að _Adobe Creative Cloud_. [Tækniskólinn býður nemendum árs áskrift að Adobe forritapakkanum á hóflegu verði]()
 
 Markmið
 
