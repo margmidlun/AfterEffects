@@ -33,9 +33,9 @@ Athugið að til að geta notað After Effects forritið á tölvunni þinni þ�
 | 3 | Animation á tímalínu | Mask layers (video og psd)|  4 |  
 | 4 | Texti / maski | Texti á tímalínu |  4 |  
 | 5 | Video samsetning | Video rotoscope |  4 | 
-| 6 | Hljóðvinnsla | Frágangur - Media encoder |  4 |
+| 6 | Hljóðvinnsla | Media encoder |  4 |
 | 7 | Lokaverkefni | Lokaverkefni |  4 |  
-| 8 | --- | --- |  30 |
+| 8 | Frágangur og birting | --- |  30 |
 
 #### Námsefni
 
@@ -50,11 +50,9 @@ Athugið að til að geta notað After Effects forritið á tölvunni þinni þ�
 - Match a moving camera
 - animate an Illustrator logo
 - Audition
-  - hljóðvinnsla
-  - Ýmis góð ráð 
+  - hljóðvinnsla og blöndun
 - Lokaverkefni
-  - Undirbúningur
-  - Framleiðsla
+  - Media encoder
 
 --- 
 
