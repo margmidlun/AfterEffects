@@ -1,4 +1,7 @@
 #  Margmiðlun með After Effects I.
+margmidlun
+
+Adobe After Effects er staðallinn fyrir hreyfigrafík nauðsynlegt fyrir alla sem vilja búa til hreyfihönnun fyrir vefinn, myndbönd eða hvers kyns skjásendingar.
 
 Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_), vefsíðum og sjónvarpi. 
 
