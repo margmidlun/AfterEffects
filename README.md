@@ -31,7 +31,7 @@ Athugið að til að geta notað After Effects forritið á tölvunni þinni þ�
 | 1 | Viðmót AE - skipulag (Composition) | Layers - keyframes |  4 |
 | 2 | Animation á tímalínu | Shape layers (vecktor teikningar) |  4 | 
 | 3 | Animation á tímalínu | Mask layers (video og psd)|  4 |  
-| 4 | Texti | Texti á tímalínu |  4 |  
+| 4 | Texti / maski | Texti á tímalínu |  4 |  
 | 5 | Video samsetning | Video rotoscope |  4 | 
 | 6 | Hljóðvinnsla | Frágangur - Media encoder |  4 |
 | 7 | Lokaverkenfi | Lokaverkefni |  4 |  
