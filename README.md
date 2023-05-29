@@ -58,11 +58,20 @@ Athugið að til að geta notað After Effects forritið á tölvunni þinni þ�
 
 ##  Áhrif og eftirvinnsla 2
 
-- Dimension
-  - Basics of 3D rendering
- 
- - After Effects
+### Dimension
+- Basics of 3D rendering
+  - Viðmót D
+  - Form rendering
+  - import from AE
+  - Export to AE
+- After Effects
   - add dimension to a design
 
+---
 
+## Hreyfimyndagerð
+
+### Animate
+
+- 2d Animatation basics
 
