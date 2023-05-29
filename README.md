@@ -39,28 +39,32 @@ Athugið að til að geta notað After Effects forritið á tölvunni þinni þ�
 
 #### Námsefni
 
-- After Effects Grunnur
-  - Begin compositions
-  - Compositing layers
-  - Animation á tímalínu
-  - Add Effects to a layer
-  - Basics of 3D rendering
-- Hreyfimynd búin til
-  - Import PP sequence
-  - Customize text
-  - Put text in motion
-  - Match a moving camera
-  - distort a layer
-  - animate an Illustrator logo
-  - add dimension to a design
-  - 
+- Compositing layers
+- Animation á tímalínu
+- Add Effects to a layer
+- Add mask to a layer
+- Customize text
+- Put text in motion
+  - Add Sound to AE
+- Rotoscope
+- Match a moving camera
+- animate an Illustrator logo
 - Audition
-  - Upptökur
   - hljóðvinnsla
   - Ýmis góð ráð 
 - Lokaverkefni
   - Undirbúningur
   - Framleiðsla
+
+--- 
+
+##  Áhrif og eftirvinnsla 2
+
+- Dimension
+  - Basics of 3D rendering
+ 
+ - After Effects
+  - add dimension to a design
 
 
 
