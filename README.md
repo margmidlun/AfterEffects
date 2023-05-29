@@ -6,7 +6,7 @@ Adobe After Effects er eitt vinsælasta forritið sem atvinnumenn nota til að b
 
 Kosturinn við Adobe forritin umfram önnur sambærileg forrit er að það er hægt að vinna samtímis með þau og samnýta til að ná fram tilætluðum áhrifum. Aðgerðir og viðmót er samræmt og auðveldar það notendum að ná tökum á þeim. Nemendur Tækniskólans geta keypt áskrift að Adobe Creative Cloud pakkanum á bókasöfnum skólans, Pakkinn kostar 6.000 kr og gildir í eitt ár.
 
-Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit ss. Photoshop. og eða vektor teikniforrit ss. Illustrator. Til að ná árangri í margmiðlun er gott að vera með áskrift að _Adobe Creative Cloud_. [Tækniskólinn býður nemendum árs áskrift að Adobe forritapakkanum á hóflegu verði]()
+Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit ss. Photoshop. og eða vektor teikniforrit ss. Illustrator. Til að ná árangri í áfanganum er gott að vera með áskrift að _Adobe Creative Cloud_. Nemendur Tækniskólans geta keypt áskrift að [Adobe Creative Cloud pakkanum](https://tskoli.is/tolvuthjonusta/) á bókasöfnum skólans, Pakkinn kostar 6.000 kr og gildir í eitt ár.
 
 #### Markmið
 
