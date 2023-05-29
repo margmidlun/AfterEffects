@@ -20,8 +20,22 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 - Æfingarnar eiga að nýtast í lokaverkefni áfangans
 - Lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, hljóðblöndun og stafrænum áhrifum til að fanga athygli áhorfandans.  
 
+# Stundatafla
 
-#### Námsáætlun
+### Vikuáætlun 2 x 2 tímar
+
+| Vika | Tími 1  | Tími 2 | Samtals |
+| --- | --- | --- | --- |
+| 1 | Viðmót AE - skipulag (Composition) | Layers - keyframes |  4 |
+| 2 | Animation á tímalínu | Shape layers (vecktor teikningar) |  4 | 
+| 3 | Animation á tímalínu | Mask layers (video og psd)|  4 |  
+| 4 | Texti | Texti á tímalínu |  4 |  
+| 5 | Video samsetning | Video rotoscope |  4 | 
+| 6 | Hljóðvinnsla | Frágangur - Media encoder |  4 |
+| 7 | Lokaverkenfi | Lokaverkefni |  4 |  
+| 8 | --- | --- |  30 |
+
+#### Námsefni
 
 - After Effects Grunnur
   - Begin compositions
@@ -45,21 +59,6 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 - Lokaverkefni
   - Undirbúningur
   - Framleiðsla
-
-# Stundatafla
-
-### Vikuáætlun 2 x 2 tímar
-
-| Vika | Tími 1  | Tími 2 | Samtals |
-| --- | --- | --- | --- |
-| 1 | Viðmót AE - skipulag (Composition) | Layers - keyframes |  4 |
-| 2 | Animation á tímalínu | Shape layers (vecktor teikningar) |  4 | 
-| 3 | Animation á tímalínu | Mask layers (video og psd)|  4 |  
-| 4 | Texti | Texti á tímalínu |  4 |  
-| 5 | Video samsetning | Video rotoscope |  4 | 
-| 6 | Hljóðvinnsla | Frágangur - Media encoder |  4 |
-| 7 | Lokaverkenfi | Lokaverkefni |  4 |  
-| 8 | --- | --- |  30 |
 
 
 
