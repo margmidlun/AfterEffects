@@ -52,14 +52,14 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 
 | Vika | Tími 1  | Tími 2 | Samtals |
 | --- | --- | --- | --- |
-| 1 | Efni valið og undirbúningur | Skipulagning |  4 |
-| 2 | HTML og Pico CSS safn. | Grid, Buttons |  4 | 
-| 3 | Frumgerð | Unnið í InkScape |  4 |  
-| 4 |  Drop down menu | CSS selectors og CSS attributes |  4 |  
-| 5 | SVG vigurteikningar | Tákn/logo búið til |  4 | 
-| 6 | Tímalínan, @keyframe | Slideshow  |  4 |
-| 7 | Landing page | CSS þjöppun |  4 |  
-| 8 | V7/buffer | --- |  30 |
+| 1 | Viðmót AE - skipulag (Composition) | Layers - keyframes |  4 |
+| 2 | Animation á tímalínu | Shape layers (vecktor teikningar) |  4 | 
+| 3 | Animation á tímalínu | Mask layers (video og psd)|  4 |  
+| 4 | Texti | Texti á tímalínu |  4 |  
+| 5 | Video samsetning | Video rotoscope |  4 | 
+| 6 | Hljóðvinnsla | Frágangur - Media encoder |  4 |
+| 7 | Lokaverkenfi | Lokaverkefni |  4 |  
+| 8 | --- | --- |  30 |
 
 
 
