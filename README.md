@@ -73,4 +73,6 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 ### Animate
 
 - 2d Animatation basics
+- Bone Tool
+- ofl.
 
