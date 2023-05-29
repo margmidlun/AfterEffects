@@ -4,9 +4,7 @@
 
 Adobe After Effects er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_) og vefsíðum. 
 
-Kosturinn við Adobe forritin umfram önnur sambærileg forrit er að það er hægt að vinna samtímis með þau og samnýta til að ná fram tilætluðum áhrifum. Aðgerðir og viðmót er samræmt og auðveldar það notendum að ná tökum á þeim. Nemendur Tækniskólans geta keypt áskrift að Adobe Creative Cloud pakkanum á bókasöfnum skólans, Pakkinn kostar 6.000 kr og gildir í eitt ár.
-
-Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit ss. Photoshop. og eða vektor teikniforrit ss. Illustrator. Til að ná árangri í áfanganum er gott að vera með áskrift að _Adobe Creative Cloud_. Nemendur Tækniskólans geta keypt áskrift að [Adobe Creative Cloud pakkanum](https://tskoli.is/tolvuthjonusta/) á bókasöfnum skólans, Pakkinn kostar 6.000 kr og gildir í eitt ár.
+Kosturinn við Adobe forritin umfram önnur sambærileg forrit er að það er hægt að vinna samtímis með þau og samnýta til að ná fram tilætluðum áhrifum. Aðgerðir og viðmót er samræmt og auðveldar það notendum að ná tökum á þeim. Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit ss. Photoshop. og eða vektor teikniforrit ss. Illustrator. Til að ná árangri í áfanganum er gott að vera með áskrift að _Adobe Creative Cloud_. Nemendur Tækniskólans geta keypt áskrift að [Adobe Creative Cloud pakkanum](https://tskoli.is/tolvuthjonusta/) á bókasöfnum skólans, Pakkinn kostar 6.000 kr og gildir í eitt ár.
 
 #### Markmið
 
