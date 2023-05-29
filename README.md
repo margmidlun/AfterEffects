@@ -40,17 +40,16 @@ Athugið að til að geta notað After Effects forritið á tölvunni þinni þ�
 #### Námsefni
 
 - Compositing layers
-- Animation á tímalínu
-- Add Effects to a layer
+- Animation á tímalínu, animate an Illustrator logo
+- Add Effects to a layer, video blöndun
 - Add mask to a layer
 - Customize text
 - Put text in motion
-  - Add Sound to AE
 - Rotoscope
 - Match a moving camera
-- animate an Illustrator logo
 - Audition
   - hljóðvinnsla og blöndun
+- Add Sound to AE
 - Lokaverkefni
   - Media encoder
 
