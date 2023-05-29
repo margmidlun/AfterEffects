@@ -34,7 +34,7 @@ Athugið að til að geta notað After Effects forritið á tölvunni þinni þ�
 | 4 | Texti / maski | Texti á tímalínu |  4 |  
 | 5 | Video samsetning | Video rotoscope |  4 | 
 | 6 | Hljóðvinnsla | Frágangur - Media encoder |  4 |
-| 7 | Lokaverkenfi | Lokaverkefni |  4 |  
+| 7 | Lokaverkefni | Lokaverkefni |  4 |  
 | 8 | --- | --- |  30 |
 
 #### Námsefni
