@@ -45,7 +45,7 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 - Add mask to a layer
 - Customize text
 - Put text in motion
-- Match a moving camera
+- Mask in a moving camera
 - Rotoscope
 - Audition
   - hljóðvinnsla og blöndun
