@@ -37,7 +37,7 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 | 7 | Lokaverkefni | Lokaverkefni |  4 |  
 | 8 | Frágangur og birting | Instagram / Youtube |  30 |
 
-#### Námsefni
+#### Námsefni (í vinnslu)
 
 - Compositing layers
 - Animation á tímalínu, animate an Illustrator logo
