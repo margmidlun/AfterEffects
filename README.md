@@ -35,7 +35,7 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 | 5 | Video samsetning | Video rotoscope |  4 | 
 | 6 | Hljóðvinnsla | Media encoder |  4 |
 | 7 | Lokaverkefni | Lokaverkefni |  4 |  
-| 8 | Frágangur og birting | --- |  30 |
+| 8 | Frágangur og birting | Instagram / Youtube |  30 |
 
 #### Námsefni
 
