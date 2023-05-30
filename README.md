@@ -37,9 +37,10 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 
 #### Námsefni 
 
-- Compositing layers
-- Animation á tímalínu, animate an Illustrator logo
-- Add Effects to a layer, video blöndun
+- Compositions 
+- Timeline keyframes and layers
+- Animation á tímalínu
+- Add Effects to a layer
 - Add mask to a layer
 - Customize text
 - Put text in motion
