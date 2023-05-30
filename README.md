@@ -16,11 +16,11 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 
 #### Námslýsing
 
-- Farið er í grunnatriði í notkun After Effects. Nemendur leysa mismunandi æfingar  til að ná tökum á forritinu.
-- Nemendur setja saman kvikmyndir (video), ljósmyndir og teikningar. 
-- Síðan er stafrænum áhrifum (After Effects) bætt við ásamt hljóðsetningu.
+- Farið er í grunnatriði í notkun After Effects. Nemendur leysa mismunandi æfingar  til að ná tökum á forritinu
+- Nemendur setja saman kvikmyndir (video), ljósmyndir og teikningar
+- Síðan er stafrænum áhrifum (After Effects) bætt við ásamt hljóðsetningu
 - Æfingarnar eiga að nýtast í lokaverkefni áfangans
-- Lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, hljóðblöndun og stafrænum áhrifum til að fanga athygli áhorfandans.  
+- Lokaverkefnið er stutt kvikmynd með grafískum upplýsingum, hljóðblöndun og stafrænum áhrifum
 
 # Stundatafla
 
