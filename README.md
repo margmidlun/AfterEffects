@@ -1,8 +1,6 @@
 #  Áhrif og eftirvinnsla
 
-### After Effects
-
-Adobe After Effects er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_) og vefsíðum. Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit (_Photoshop_) og eða vektor teikniforrit (_Illustrator_).
+**Adobe After Effects** er eitt vinsælasta forritið sem atvinnumenn nota til að búa til grafískar hreyfimyndir og bæta þeim í kvikmyndir ásamt litastillingum, myndblöndun og alskyns áhrifum. Hægt er að sérsníða kvikmyndir fyrir internetið, sjónvarp og skjávarpa. Þú getur notað _After Effects_ til að blanda saman grafísku efni og vídeói og birt á félagsmiðlum (_Social Media_) og vefsíðum. Námskeiðið er ætlað byrjendum og forkrföfur eru almenn tölvukunnátta. Það er kostur að kunna á myndvinnsluforrit (_Photoshop_) og eða vektor teikniforrit (_Illustrator_).
 
 #### Adobe Creative Cloud
 
