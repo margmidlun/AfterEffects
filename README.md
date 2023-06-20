@@ -32,6 +32,6 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 | 4 | Texti / áhrif | Puppet tool |  4 |  
 | 5 | Video rotoscope | Þrívídd lagskipting | 4 | 
 | 6 | Myndavél og ljós | Hljóðvinnsla |  4 |
-| 7 | Lokaverkefni | Lokaverkefni |  4 |  
-| 8 | Þrívídd lagskipting | Instagram / Youtube |  30 |
+| 7 | Þrívídd lagskipting | Lokaverkefni |  4 |  
+| 8 | Lokaverkefni | Frágangur og birting | 4 |
 |   | Lengd Kennslustundar ? |  |  |
