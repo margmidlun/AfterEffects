@@ -26,12 +26,12 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 
 | Vika | Tími 1  | Tími 2 | Samtals |
 | --- | --- | --- | --- |
-| 1 | Viðmót AE - skipulag (Composition) | Layers - keyframes |  4 |
-| 2 | Animation á tímalínu | Shape layers (vecktor teikningar) |  4 | 
-| 3 | Hröðun (_ease in out_) | Mask layers |  4 |  
+| 1 | Viðmót AE - skipulag, tímalínan | Layers - keyframes |  4 |
+| 2 | Shape layers |  Hröðun (_ease in out_) |  4 | 
+| 3 | Mask layers | Rotoscope  4 |  
 | 4 | Texti / áhrif | Puppet tool |  4 |  
-| 5 | Video rotoscope | Þrívídd lagskipting | 4 | 
-| 6 | Myndavél og ljós | Hljóðvinnsla |  4 |
-| 7 | Þrívídd lagskipting | Lokaverkefni |  4 |  
+| 5 | Þrívídd lagskipting | Myndavél og ljós| 4 | 
+| 6 |  | Hljóðvinnsla |  4 |
+| 7 | Undirbúningur | Lokaverkefni |  4 |  
 | 8 | Lokaverkefni | Frágangur og birting | 4 |
 |   | Lengd Kennslustundar ? |  | 32 |
