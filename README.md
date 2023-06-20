@@ -28,26 +28,9 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 | --- | --- | --- | --- |
 | 1 | Viðmót AE - skipulag (Composition) | Layers - keyframes |  4 |
 | 2 | Animation á tímalínu | Shape layers (vecktor teikningar) |  4 | 
-| 3 | Animation á tímalínu | Mask layers (video og psd)|  4 |  
-| 4 | Texti / maski | Texti á tímalínu |  4 |  
-| 5 | Video samsetning | Video rotoscope |  4 | 
-| 6 | Hljóðvinnsla | Media encoder |  4 |
+| 3 | Hröðun (_ease in out_) | Mask layers |  4 |  
+| 4 | Texti / áhrif | Puppet tool |  4 |  
+| 5 | Video rotoscope | Þrívídd lagskipting | 4 | 
+| 6 | Myndavél og ljós | Hljóðvinnsla |  4 |
 | 7 | Lokaverkefni | Lokaverkefni |  4 |  
-| 8 | Frágangur og birting | Instagram / Youtube |  30 |
-
-#### Námsefni 
-
-- Compositions 
-- Timeline keyframes and layers
-- Animation á tímalínu
-- Add Effects to a layer
-- Add mask to a layer
-- Customize text
-- Put text in motion
-- Mask in a moving camera
-- Rotoscope
-- Audition
-  - hljóðvinnsla og blöndun
-- Add Sound to AE
-- Lokaverkefni
-  - Media encoder
+| 8 | Þrívídd lagskipting | Instagram / Youtube |  30 |
