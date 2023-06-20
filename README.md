@@ -34,4 +34,4 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 | 6 | Myndavél og ljós | Hljóðvinnsla |  4 |
 | 7 | Þrívídd lagskipting | Lokaverkefni |  4 |  
 | 8 | Lokaverkefni | Frágangur og birting | 4 |
-|   | Lengd Kennslustundar ? |  |  |
+|   | Lengd Kennslustundar ? |  | 32 |
