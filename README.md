@@ -34,3 +34,4 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 | 6 | Myndavél og ljós | Hljóðvinnsla |  4 |
 | 7 | Lokaverkefni | Lokaverkefni |  4 |  
 | 8 | Þrívídd lagskipting | Instagram / Youtube |  30 |
+|   | Lengd Kennslustundar ? |  |  |
