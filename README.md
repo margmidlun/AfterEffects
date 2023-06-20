@@ -28,10 +28,10 @@ Kosturinn við [Adobe forritin](https://www.adobe.com/creativecloud.html) umfram
 | --- | --- | --- | --- |
 | 1 | Viðmót AE - skipulag, tímalínan | Layers - keyframes |  4 |
 | 2 | Shape layers |  Hröðun (_ease in out_) |  4 | 
-| 3 | Mask layers | Rotoscope  4 |  
+| 3 | Mask layers | Rotoscope | 4 |
 | 4 | Texti / áhrif | Puppet tool |  4 |  
 | 5 | Þrívídd lagskipting | Myndavél og ljós| 4 | 
-| 6 |  | Hljóðvinnsla |  4 |
-| 7 | Undirbúningur | Lokaverkefni |  4 |  
+| 6 | Handrit - sögusvið | Hljóðvinnsla |  4 |
+| 7 | Kviksaga | Lokaverkefni |  4 |  
 | 8 | Lokaverkefni | Frágangur og birting | 4 |
 |   | Lengd Kennslustundar ? |  | 32 |
